@@ -1,0 +1,3 @@
+username,password,password2,mobile,email,err_msg,err_loc
+as,123456,123456,13912345678,as01@123.com,用户名不低于三位，使用中文、数字、字母皆可！,1
+akins50,12345,12345,13912345679,as01@124.com,密码范围在6~15位之间！,2

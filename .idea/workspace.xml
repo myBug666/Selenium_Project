@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c6dd9f55-f5e4-47aa-887d-31c32d206670" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/page_object1910/base/basePage.py" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProjectId" id="1gzf8AwTNYqzm1xUk9iwGj6WK1S" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\学习---project\test\selenlum1910\page_object1910\testCase" />
+      <recent name="D:\学习---project\test\selenlum1910\page_object1910\lib" />
+      <recent name="D:\学习---project\test\selenlum1910\page_object1910\data" />
+      <recent name="D:\学习---project\test\selenlum1910\page_object1910" />
+      <recent name="D:\学习---project\test\selenlum1910\page_object1910\driver" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\学习---project\test\selenlum1910\page_object1910\testCase\regressionTestCase" />
+      <recent name="D:\学习---project\test\selenlum1910\page_object1910" />
+      <recent name="D:\学习---project\test\selenlum1910\page_object1910\testCase" />
+      <recent name="D:\学习---project\test\selenlum1910\page_object1910\testCase\smokeTesCase" />
+      <recent name="D:\学习---project\test\selenlum1910\page_object1910\func\conn_mysql" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python tests.Unittests for unittest_login.login.test_login">
+    <configuration name="add_goods_new" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="selenlum1910" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_base" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_base/add_goods_new.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_move_to_element" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="selenlum1910" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_base" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_base/test_move_to_element.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for unittest_base.unit_test" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="selenlum1910" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/unittest_demo" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;unittest_base.unit_test&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for unittest_classmethod.unit_test" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="selenlum1910" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/unittest_demo" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;unittest_classmethod.unit_test&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for unittest_login.login.test_login" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="selenlum1910" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/unittest_demo" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;unittest_login.login.test_login&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Unittests for unittest_login.login.test_login" />
+        <item itemvalue="Python tests.Unittests for unittest_classmethod.unit_test" />
+        <item itemvalue="Python tests.Unittests for unittest_base.unit_test" />
+        <item itemvalue="Python.add_goods_new" />
+        <item itemvalue="Python.test_move_to_element" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c6dd9f55-f5e4-47aa-887d-31c32d206670" name="Default Changelist" comment="" />
+      <created>1599122179292</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599122179292</updated>
+      <workItem from="1599122181197" duration="10084000" />
+      <workItem from="1599183727807" duration="9338000" />
+      <workItem from="1599309427604" duration="195000" />
+      <workItem from="1599545982552" duration="702000" />
+      <workItem from="1599567220570" duration="1505000" />
+      <workItem from="1599608830104" duration="2743000" />
+      <workItem from="1599616466148" duration="3678000" />
+      <workItem from="1599632359156" duration="3935000" />
+      <workItem from="1599636583934" duration="1232000" />
+      <workItem from="1599638458578" duration="10141000" />
+      <workItem from="1599697934816" duration="30166000" />
+      <workItem from="1599783089333" duration="26300000" />
+      <workItem from="1599907512708" duration="2791000" />
+      <workItem from="1599911761436" duration="773000" />
+      <workItem from="1599988666182" duration="3968000" />
+      <workItem from="1600042493014" duration="28015000" />
+      <workItem from="1600128787228" duration="30724000" />
+      <workItem from="1600215215383" duration="33346000" />
+      <workItem from="1600301735230" duration="15716000" />
+      <workItem from="1600387976812" duration="7422000" />
+      <workItem from="1600414288738" duration="1669000" />
+      <workItem from="1600428942573" duration="4976000" />
+      <workItem from="1600496955302" duration="16482000" />
+      <workItem from="1600516292354" duration="1372000" />
+      <workItem from="1600567908688" duration="2250000" />
+      <workItem from="1600578384622" duration="2331000" />
+      <workItem from="1600646705616" duration="4793000" />
+      <workItem from="1600668644821" duration="2965000" />
+      <workItem from="1600733136738" duration="12161000" />
+      <workItem from="1600820286281" duration="645000" />
+      <workItem from="1600828168096" duration="274000" />
+      <workItem from="1600828469954" duration="1295000" />
+      <workItem from="1600906388359" duration="18459000" />
+      <workItem from="1600947436398" duration="3774000" />
+      <workItem from="1600991831623" duration="1193000" />
+      <workItem from="1602287871411" duration="1517000" />
+      <workItem from="1602292090248" duration="498000" />
+      <workItem from="1602570624167" duration="601000" />
+      <workItem from="1602729859335" duration="1376000" />
+      <workItem from="1602816360262" duration="10610000" />
+      <workItem from="1604048947004" duration="861000" />
+      <workItem from="1604124201944" duration="1974000" />
+      <workItem from="1604912647463" duration="1471000" />
+      <workItem from="1605056966331" duration="837000" />
+      <workItem from="1605079471713" duration="952000" />
+      <workItem from="1605764516752" duration="2762000" />
+      <workItem from="1606289510664" duration="1900000" />
+      <workItem from="1606359588628" duration="28000" />
+      <workItem from="1606359631932" duration="434000" />
+      <workItem from="1606786058099" duration="4887000" />
+      <workItem from="1606978672124" duration="2598000" />
+      <workItem from="1607062514324" duration="1572000" />
+      <workItem from="1607497866843" duration="1728000" />
+      <workItem from="1610355187080" duration="255000" />
+      <workItem from="1610516676834" duration="1597000" />
+      <workItem from="1629960098762" duration="621000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1119" height="265" key="GridCell.Tab.0.bottom" timestamp="1629960726139">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1119" height="265" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1629960726139" />
+    <state width="1119" height="265" key="GridCell.Tab.0.center" timestamp="1629960726139">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1119" height="265" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1629960726139" />
+    <state width="1119" height="265" key="GridCell.Tab.0.left" timestamp="1629960726139">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1119" height="265" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1629960726139" />
+    <state width="1119" height="265" key="GridCell.Tab.0.right" timestamp="1629960726139">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1119" height="265" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1629960726139" />
+    <state x="626" y="357" key="SettingsEditor" timestamp="1629960149209">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="626" y="357" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1629960149209" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/selenlum1910$run_all_test_case.coverage" NAME="run_all_test_case Coverage Results" MODIFIED="1600311387483" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/page_object1910" />
+    <SUITE FILE_PATH="coverage/selenlum1910$day01.coverage" NAME="day01 Coverage Results" MODIFIED="1599821795359" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/selenlum1910$day04_add_goods.coverage" NAME="day04_add_goods Coverage Results" MODIFIED="1600649060554" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_base" />
+    <SUITE FILE_PATH="coverage/selenlum1910$Unittests_for_loginTest_test_LoginTest_test_login.coverage" NAME="Unittests for loginTest.test_LoginTest.test_login Coverage Results" MODIFIED="1600135712739" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/page_object1910/testCase" />
+    <SUITE FILE_PATH="coverage/selenlum1910$Unittests_for_add_Goods_test_Add_Goods_Test_test_addGoods.coverage" NAME="Unittests for add_Goods_test.Add_Goods_Test.test_addGoods Coverage Results" MODIFIED="1600740732838" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/page_object1910/testCase/smokeTesCase" />
+    <SUITE FILE_PATH="coverage/selenlum1910$Unittests_for_loginTest_LoginTest_test_login.coverage" NAME="Unittests for loginTest.LoginTest.test_login Coverage Results" MODIFIED="1600075555085" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/page_object1910/testCase" />
+    <SUITE FILE_PATH="coverage/selenlum1910$Unittests_in_reg_exce_test_py.coverage" NAME="Unittests in reg_exce_test.py Coverage Results" MODIFIED="1600304079486" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/page_object1910/testCase" />
+    <SUITE FILE_PATH="coverage/selenlum1910$loginadminPage__1_.coverage" NAME="loginadminPage (1) Coverage Results" MODIFIED="1600086712192" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/page_object1910/pageObject" />
+    <SUITE FILE_PATH="coverage/selenlum1910$day03_pay_goods__1_.coverage" NAME="day03_pay_goods_(1) Coverage Results" MODIFIED="1599795385513" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/selenlum1910$day03_genggai_user_info__1_.coverage" NAME="day03_genggai_user_info (1) Coverage Results" MODIFIED="1599727702333" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/selenlum1910$Unittests_for_change_user_info_test_Change_User_Info_Test.coverage" NAME="Unittests for change_user_info_test.Change_User_Info_Test Coverage Results" MODIFIED="1600151531355" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/page_object1910/testCase" />
+    <SUITE FILE_PATH="coverage/selenlum1910$Unittests_for_reg_onrmal_test_Reg_Normal_Test_test_reg.coverage" NAME="Unittests for reg_onrmal_test.Reg_Normal_Test.test_reg Coverage Results" MODIFIED="1600238426086" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/page_object1910/testCase" />
+    <SUITE FILE_PATH="coverage/selenlum1910$Unittests_for_unittest_classmethod_unit_test.coverage" NAME="Unittests for unittest_classmethod.unit_test Coverage Results" MODIFIED="1629960705582" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unittest_demo" />
+    <SUITE FILE_PATH="coverage/selenlum1910$reg_onrmal_test.coverage" NAME="reg_onrmal_test Coverage Results" MODIFIED="1600242634758" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/page_object1910/testCase" />
+    <SUITE FILE_PATH="coverage/selenlum1910$Unittests_in_loginTest_py.coverage" NAME="Unittests in loginTest.py Coverage Results" MODIFIED="1600084742666" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/page_object1910/testCase" />
+    <SUITE FILE_PATH="coverage/selenlum1910$run_regssion_test_case.coverage" NAME="run_regssion_test_case Coverage Results" MODIFIED="1600323647742" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/page_object1910" />
+    <SUITE FILE_PATH="coverage/selenlum1910$run_smoke_case_jekins.coverage" NAME="run_smoke_case_jekins Coverage Results" MODIFIED="1600515668627" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/page_object1910" />
+    <SUITE FILE_PATH="coverage/selenlum1910$Unittests_for_loginTest_LoginTest.coverage" NAME="Unittests for loginTest.LoginTest Coverage Results" MODIFIED="1600081855722" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/page_object1910/testCase" />
+    <SUITE FILE_PATH="coverage/selenlum1910$Unittests_for_unittest_login_login_test_login.coverage" NAME="Unittests for unittest_login.login.test_login Coverage Results" MODIFIED="1629960712981" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unittest_demo" />
+    <SUITE FILE_PATH="coverage/selenlum1910$loginadmin.coverage" NAME="loginadmin Coverage Results" MODIFIED="1600086045770" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/page_object1910/pageObject" />
+    <SUITE FILE_PATH="coverage/selenlum1910$baidu.coverage" NAME="baidu Coverage Results" MODIFIED="1599637052223" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/o" />
+    <SUITE FILE_PATH="coverage/selenlum1910$day03_reg.coverage" NAME="day03_reg Coverage Results" MODIFIED="1599706322516" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/selenlum1910$Unittests_for_test_loginAdmin_LoginAdmin_test_admin_login.coverage" NAME="Unittests for test_loginAdmin.LoginAdmin.test_admin_login Coverage Results" MODIFIED="1600131322192" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/page_object1910/testCase" />
+    <SUITE FILE_PATH="coverage/selenlum1910$Unittests_for_test_loginAdmin_LoginAdmin.coverage" NAME="Unittests for test_loginAdmin.LoginAdmin Coverage Results" MODIFIED="1600131403257" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/page_object1910/testCase" />
+    <SUITE FILE_PATH="coverage/selenlum1910$readCsvFile.coverage" NAME="readCsvFile Coverage Results" MODIFIED="1600170456816" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/page_object1910/func" />
+    <SUITE FILE_PATH="coverage/selenlum1910$Unittests_in_myTestCase_py.coverage" NAME="Unittests in myTestCase.py Coverage Results" MODIFIED="1600087408904" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/page_object1910/base" />
+    <SUITE FILE_PATH="coverage/selenlum1910$Unittests_for_loginAdmin_LoginAdmin.coverage" NAME="Unittests for loginAdmin.LoginAdmin Coverage Results" MODIFIED="1600086068228" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/page_object1910/testCase" />
+    <SUITE FILE_PATH="coverage/selenlum1910$Unittests_for_change_user_info_test_Change_User_Info_Test_test_change_user_info.coverage" NAME="Unittests for change_user_info_test.Change_User_Info_Test.test_change_user_info Coverage Results" MODIFIED="1600149948109" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/page_object1910/testCase" />
+    <SUITE FILE_PATH="coverage/selenlum1910$day02.coverage" NAME="day02 Coverage Results" MODIFIED="1599636592906" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/selenlum1910$day02_log.coverage" NAME="day02_log Coverage Results" MODIFIED="1599725849260" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/selenlum1910$add_goods_new.coverage" NAME="add_goods_new Coverage Results" MODIFIED="1600935749975" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_base" />
+    <SUITE FILE_PATH="coverage/selenlum1910$get_db_conn.coverage" NAME="get_db_conn Coverage Results" MODIFIED="1600227264023" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/page_object1910/func/conn_mysql" />
+    <SUITE FILE_PATH="coverage/selenlum1910$Unittests_in_add_Goods_test_py.coverage" NAME="Unittests in add_Goods_test.py Coverage Results" MODIFIED="1600744146228" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/page_object1910/testCase/smokeTesCase" />
+    <SUITE FILE_PATH="coverage/selenlum1910$day03_pay_goods.coverage" NAME="day03_pay_goods Coverage Results" MODIFIED="1599790331444" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/selenlum1910$Unittests_for_unittest_login_login.coverage" NAME="Unittests for unittest_login.login Coverage Results" MODIFIED="1600051809293" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unittest_demo" />
+    <SUITE FILE_PATH="coverage/selenlum1910$Unittests_in_loginAdmin_py.coverage" NAME="Unittests in test_loginAdmin.py Coverage Results" MODIFIED="1600087541462" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/page_object1910/testCase" />
+    <SUITE FILE_PATH="coverage/selenlum1910$day02reg.coverage" NAME="day02reg Coverage Results" MODIFIED="1599723669573" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/selenlum1910$Unittests_for_unittest_base_unit_test.coverage" NAME="Unittests for unittest_base.unit_test Coverage Results" MODIFIED="1602571205064" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unittest_demo" />
+    <SUITE FILE_PATH="coverage/selenlum1910$Unittests_in_user_login_test_py.coverage" NAME="Unittests in user_login_test.py Coverage Results" MODIFIED="1600417022349" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/page_object1910/testCase/smokeTesCase" />
+    <SUITE FILE_PATH="coverage/selenlum1910$Unittests_in_reg_onrmal_test_py.coverage" NAME="Unittests in reg_onrmal_test.py Coverage Results" MODIFIED="1600567971701" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/page_object1910/testCase/smokeTesCase" />
+    <SUITE FILE_PATH="coverage/selenlum1910$__1_.coverage" NAME="自动化测试 (1) Coverage Results" MODIFIED="1599568072176" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/o" />
+    <SUITE FILE_PATH="coverage/selenlum1910$Unittests_for_reg_onrmal_test_Reg_Normal_Test.coverage" NAME="Unittests for reg_onrmal_test.Reg_Normal_Test Coverage Results" MODIFIED="1600215782346" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/page_object1910/testCase" />
+    <SUITE FILE_PATH="coverage/selenlum1910$test_move_to_element.coverage" NAME="test_move_to_element Coverage Results" MODIFIED="1600914167658" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_base" />
+    <SUITE FILE_PATH="coverage/selenlum1910$Unittests_in_change_user_info_test_py.coverage" NAME="Unittests in change_user_info_test.py Coverage Results" MODIFIED="1600304625380" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/page_object1910/testCase" />
+    <SUITE FILE_PATH="coverage/selenlum1910$.coverage" NAME="自动化测试 Coverage Results" MODIFIED="1599183795026" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/selenlum1910$Unittests_in_unittest_login_py.coverage" NAME="Unittests in unittest_login.py Coverage Results" MODIFIED="1600047976641" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unittest_demo" />
+  </component>
+</project>
